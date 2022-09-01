@@ -89,15 +89,16 @@ experiences:
         time: Jan 2019 - Present
         company: Celfocus, Lisbon
         details: |
-          **Vodafone Group, SmartTech (Consumer-IoT) Platform**
-          Responsibility on modelling and designing the solution for several components within a large Microservice ecosystem hosted in the AWS Cloud Platform.
+          Client: Vodafone Group, SmartTech (Consumer-IoT) Platform
+          
+          Design the solution for several micro services - under Added Value Services area - within a large Microservice ecosystem hosted in the AWS Cloud Platform.
           
           Tech Stack: Springboot2.0, MongoDB, AWS Stack for IoT (Shadow, Broker, Rules Engine), AWS stack for Cache (Elasticache for Memcached, Elasticache for Redis), AWS Serverless (Lambda Functions)
       - role: Technical Architect / EAI Team Leader
         time: Oct 2016 – Dec 2018
         company: Celfocus, Lisbon
         details: |
-          **Vodafone Group, Enterprise IoT (IoT Portal, IITC, SME)**
+          Client: Vodafone Group, Enterprise IoT (IoT Portal, IITC, SME)
           
           Team leader of the Order Management and Integration Team. Technical design and architecture of the solution. Development of the solution and support in the quality assurance phase until acceptance in production. 
           
@@ -106,34 +107,34 @@ experiences:
         time: Nov 2015 – Oct 2016
         company: Celfocus, Lisbon
         details: |
-          **Vodafone Ghana, CRM Migration (2nd phase)**
+          Client: Vodafone Ghana, CRM Migration (2nd phase)
           
-          Design and support on the architecture of the solution. Development of the OSB and OSM solution. Team management functions in the absence of the team leader. Support in the “go-live” procedure.
+          Design the architecture of the solution. Development of the OSB and OSM layers. Team management functions in the absence of the team leader. Support in the “go-live” procedure.
           
           Tech Stack: Oracle Weblogic 11g, Oracle Service Bus 11g, Oracle OSM 11g, Oracle Database 11g)
       - role: EAI Developer
         time: Aug 2015 – Nov 2015
         company: Celfocus, Lisbon
         details: |
-          **Vodafone Group, IoT (Internet of Things) projects**
+          Client: Vodafone Group, Enterprise IoT
           
           Installation of the production and pre-production Oracle BPEL environments for the Internet of Things project. Development of the WLST/python scripts that supported the installation process. Development of the Weblogic servers monitoring scripts. Development of the continuous integration processes for Oracle OSB and Oracle BPEL projects. 
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL 11g, Oracle Service Bus 11g, Oracle Database 11g)
       - role: EAI Developer
-        time: Set 2013 – Jan 2014
+        time: Feb 2014 – Aug 2015
         company: Celfocus, Lisbon
         details: |
-          **Vodafone Group, OneNet OPP & CPP**
+          Client: Vodafone Group, One Net OPP & CPP
           
           Migration of the EAI layer and development of new components from Vodafone Group’s unified communications provisioning and portals solution (the core of Vodafone’s “One Net” product).
           
-          Tech Stack: Oracle Weblogic 11g, Oracle BPEL, Oracle Service Bus 11g, Oracle Database 11g)
+          Tech Stack: Oracle Weblogic 11g, Oracle BPEL 11g, Oracle Service Bus 11g, Oracle Database 11g)
       - role: EAI Developer
         time: Sep 2013 – Feb 2014
         company: Celfocus, Lisbon
         details: |
-          **Instituto de Registos e Notariado**
+          Client: Instituto de Registos e Notariado (IRN)
           
           Analysis and development of the EAI layer of the IRN back office portal.
           
@@ -142,27 +143,25 @@ experiences:
         time: Feb 2013 – Sep 2013
         company: Celfocus, Lisbon
         details: |
-          **Vodafone Ghana, CRM Migration (1st phase)**
+          Client: Vodafone Ghana, CRM Migration (1st phase)
           
+          Development of an entire framework based on OSB; Release management; support in server administrative tasks, such as environment installation and maintenance; Member of the “go-live” team in Accra, Ghana.
+          
+          Tech Stack: Oracle Weblogic 11g, Oracle BPEL, Oracle Service Bus 11g, Oracle Database 11g.
+      - role: EAI Developer
+        time: Aug 2012 – Feb 2013
+        company: Banco Finantia, Lisbon
+        details: |
           Development and support of the EAI layer to integrate the applications used in-house. Research and implementation of new features and mechanisms based on the technology, regarding the process automation and performance optimization.
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL, Oracle Service Bus 11g, Oracle Database 11g.
       - role: Junior Developer
-        time: Sep 2013 – Feb 2014
+        time: Sep 2010 – Aug 2012
         company: Capgemini, Lisbon
         details: |          
           Migration of a technologically deprecated solution (Oracle Database 7.3, Oracle SQL*Forms 3.0, Oracle Reports 2.5) to up-to-date technologies.
           
           Tech Stack: Oracle Database 11g Release 2, Oracle Forms 11g, Oracle Reports 11g, Oracle ADF, Oracle WebLogic Server 11gR1 – 10.3.3
-      - role: EAI Developer
-        time: Aug 2012 – Feb 2013
-        company: Finantia Bank, Lisbon
-        details: |
-          **Instituto de Registos e Notariado**
-          
-          Analysis and development of the EAI layer of the IRN back office portal.
-          
-          Tech Stack: Oracle Weblogic 11g, Oracle BPEL, Oracle Service Bus 11g, Oracle Database 11g.
 projects:
     title: Projects
     intro: >
