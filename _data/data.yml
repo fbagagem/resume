@@ -62,28 +62,26 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Scrum Master – PSM I Assessment
+        university: Scrum.org
+        time: Mar 2020
+        details: 
+      - degree: AWS Certified Solutions Architect – Associate
+        university: AWS Training and Certification
+        time: Oct 2019
+        details: 
+      - degree: Oracle Certified Associate, Oracle WebLogic Server 12c Administrator
+        university: Oracle
+        time: Jan 2018
+        details: 
       - degree: MSc in Computer and Telematics Engineering
         university: Universidade of Aveiro
         time: 2008 - 2010
-        #details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
       - degree: BSc in Computer Science
         university: Instituto Politécnico de Leiria
         time: 2004 - 2008
-        #details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
 experiences:
     title: Experiences
     info:
