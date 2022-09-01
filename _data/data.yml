@@ -192,6 +192,9 @@ skills:
       - name: Microservice Architectures
         level: 100%
         
+      - name: AWS Cloud Platform
+        level: 95%
+        
       - name: System Integration
         level: 95%
         
@@ -200,27 +203,28 @@ skills:
         
       - name: Order Management
         level: 80%
+        
+technologies:
+    title: Tools &amp; Technologies
 
-      - name: AWS Cloud Platform
-        level: 95%
-
+    toolset:
+      - name: Oracle Weblogic 11g/12c
+        level: 85%
+        
       - name: Oracle Service Bus 11g/12c
         level: 80%
         
       - name: Oracle BPEL 11g/12c
         level: 80%
         
-      - name: Oracle Weblogic 11g/12c
-        level: 85%
-        
-      - name: Oracle OSM 11g
-        level: 50%
-        
       - name: Scripting languages (Bash, Python, WLST, etc)
         level: 70%
         
       - name: Springboot 2.0
         level: 60%
-
+        
+      - name: Oracle OSM 11g
+        level: 50%
+       
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
