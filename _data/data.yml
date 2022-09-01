@@ -32,25 +32,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Portuguese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tech
           link:
 
-        - item: Snowboarding
+        - item: Hiking/Trail running
           link:
 
-        - item: Cooking
+        - item: Family
           link:
 
 career-profile:
