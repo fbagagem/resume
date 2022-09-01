@@ -33,16 +33,16 @@
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-  .skillset .level-title {
+  .skillset .level-title, .technologyset .level-title {
     display: inline-block;
     float: left;
-    width: 30%;
+    width: 40%;
     margin-bottom: 0;
   }
 
-  .skillset .level-bar {
+  .skillset .level-bar, .technologyset .level-bar {
     display: inline-block;
-    width: 70%;
+    width: 60%;
     float: left;
     position: relative;
     top: 1px;
