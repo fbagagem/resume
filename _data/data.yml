@@ -186,25 +186,40 @@ experiences:
 #        conference: Addison-Wesley, 1968
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Key Skills &amp; Competencies
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Microservice Architectures
+        level: 100%
+        
+      - name: System Integration
+        level: 95%
+        
+      - name: Telco (BSS, OSS) &amp; IoT Business
+        level: 85%
+        
+      - name: Order Management
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: AWS Cloud Platform
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Oracle Service Bus 11g/12c
+        level: 80%
+        
+      - name: Oracle BPEL 11g/12c
+        level: 80%
+        
+      - name: Oracle Weblogic 11g/12c
         level: 85%
-
-      - name: Sketch & Photoshop
+        
+      - name: Oracle OSM 11g
+        level: 50%
+        
+      - name: Scripting languages (Bash, Python, WLST, etc)
+        level: 70%
+        
+      - name: Springboot 2.0
         level: 60%
 
 #footer: >
