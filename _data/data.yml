@@ -56,19 +56,23 @@ sidebar:
 career-profile:
     title: Career Summary
     summary: |
-      More than 10 years of experience in application development, most of them in Telecommunications business (both BSS and OSS) and Internet of Things in areas such as Microservice Architectures, Order Management, enterprise application integrations with external systems and network provisioning.
+      More than 14 years of experience in application development, most of them in Telecommunications business (both BSS and OSS) and in areas such as Microservice Architectures, API Management, Order Management, Enterprise Application Integrations with external systems and network provisioning.
       
-      Since early 2019 I've been working as Solution Architect for SmartTech Platform (a.k.a. Consumer-IoT core platform) for Vodafone Group, developing Added Value Services area within the products.
+      Since the beginning of 2023 I've been developing the API Management technological area at Celfocus with the role Chapter Lead. Simultaneously, also assumed the responsibility of leading the Backend and API Management teams in the Carbon Marketplace project.
       
-      Shortly after I was invited to compose and lecture the _Microservices Architecture - Introduction_ training module, followed by an _Intermediate_ level (both Celfocus' internal sessions).
+      From early 2019 and until 2022 I contributed as Solution Architect for SmartTech Platform (a.k.a. Consumer-IoT core platform) for Vodafone Group. Shortly after I was invited to prepare and lecture the _Microservices Architecture - Introduction_ training course, followed by an _Intermediate_ level (both Celfocus' internal sessions).
       
-      Until the end of 2018 I have contributed as Integration Team leader and Technical Architect delivering Enterprise IoT projects, also for Vodafone Group.
+      Until the end of 2018 I have worked as Integration Team leader and Technical Architect delivering Enterprise IoT projects, also for Vodafone Group.
       
-      Before that I had the role of EAI consultant as part of the development team in several projects in Telecommunications industry for clients such as Vodafone Group, Vodafone Ghana and Vodafone Portugal. Also, in the Public sector, I have participated in the development and functional analysis team at the Instituto de Registos e Notariado and in the financial sector I have contributed for the in-house team of development and support of the EAI systems.
+      Before that I have grown as EAI consultant professional, as part of the development team in several projects in Telecommunications industry for clients such as Vodafone Group, Vodafone Ghana and Vodafone Portugal. Also, in the Public sector, I have participated in the development and functional analysis team at the Instituto de Registos e Notariado and in the financial sector I have contributed for the in-house team of development and support of the EAI systems.
 
 education:
     title: Education
     info:
+      - degree: AWS Certified Solutions Architect – Associate
+        university: AWS Training and Certification
+        time: Nov 2023
+        details: (certification renewal)
       - degree: Scrum Master – PSM I Assessment
         university: Scrum.org
         time: Mar 2020
@@ -92,8 +96,38 @@ education:
 experiences:
     title: Past Experience
     info:
+      - role: API Management & Backend Tech Lead
+        time: Feb 2025 - Present
+        company: Celfocus, Lisbon
+        details: |
+          Client: Caixa Geral de Aposentações, NSI - Novo Sistema de Informação
+          
+          Responsibility on driving technical innovation and excellence, by ensuring solution delivery in Backend and API Management areas, enforcing the implementation of best practices within the project, and leading the team organization.
+          
+          Tech Stack: Java 21, Springboot 3.3.3, Google Apigee X, Postgres, Kubernetes, Helm
+      - role: Backend Chapter Lead (Staff Engineer)
+        time: Feb 2025 - Present
+        company: Celfocus, Lisbon
+        details: |
+          Responsibility on leading the technological decisions, hiring activities, technological training contents, community management and support presales activities across Celfocus regarding Backend Development area.
+      - role: API Management & Backend Tech Lead
+        time: Oct 2023 - Mar 2024
+        company: Celfocus, Lisbon
+        details: |
+          Client: Celfocus, Carbon Marketplace Platform and Loyalty Platform
+          
+          Responsibility on driving technical innovation and excellence, by ensuring solution delivery in Backend and API Management areas, enforcing the implementation of best practices within the project, and leading the team organization.
+          
+          Tech Stack: Java 17, Springboot 2.7.3, Kong Gateway (community edition), MongoDB, Celfocus Omnichannel 3.3.3, Kubernetes, Helm
+      - role: API Management Chapter Lead (Staff Engineer)
+        time: Jan 2023 - Feb 2025
+        company: Celfocus, Lisbon
+        details: |
+          Responsibility on leading the technological decisions, hiring activities, technological training contents, community management and support presales activities across Celfocus regarding API Management area.
+          
+          Technologies of specialization: Google Apigee, AWS Api Gateway, Kong Gateway
       - role: Solution Architect
-        time: Jan 2019 - Present
+        time: Jan 2019 - Dec 2022
         company: Celfocus, Lisbon
         details: |
           Client: Vodafone Group, SmartTech (Consumer-IoT) Platform
@@ -227,8 +261,8 @@ technologies:
       - name: Scripting languages (Bash, Python, WLST, etc)
         level: 70%
         
-      - name: Springboot 2.0
-        level: 60%
+      - name: Java Springboot
+        level: 70%
         
       - name: Oracle OSM 11g
         level: 50%
