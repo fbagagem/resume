@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Fábio Bagagem
-    tagline: Solutions Architect
+    tagline: Staff Engineer – Backend & Platform (API, IAM, Cloud)
     avatar: photo-100px.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,15 +56,13 @@ sidebar:
 career-profile:
     title: Career Summary
     summary: |
-      More than 14 years of experience in application development, most of them in Telecommunications business (both BSS and OSS) and in areas such as Microservice Architectures, API Management, Order Management, Enterprise Application Integrations with external systems and network provisioning.
+      More than 15 years of experience designing and delivering enterprise software, with a strong focus on Telecommunications (BSS/OSS) and large-scale integration programs, evolving in recent years toward cloud-native architectures, API management and platform engineering.
       
-      Since the beginning of 2023 I've been developing the API Management technological area at Celfocus with the role Chapter Lead. Simultaneously, also assumed the responsibility of leading the Backend and API Management teams in the Carbon Marketplace project.
+      Over the last year I have been Tech Lead in CGA’s NSI (Novo Sistema de Informação) digital transformation program, leading the backend development and platform capabilities of a team shifting from legacy tooling to a modern stack. I own technical delivery across backend development (Java 21, Spring Boot 3.4.13, Apache Camel, Postgres), API Management (Google Apigee X) and IAM (Red Hat build of Keycloak running on OpenShift), hosted in Google Cloud. I work as a trusted peer to the enterprise architect, contributing actively to architectural decisions and long-term direction.
       
-      From early 2019 and until 2022 I contributed as Solution Architect for SmartTech Platform (a.k.a. Consumer-IoT core platform) for Vodafone Group. Shortly after I was invited to prepare and lecture the _Microservices Architecture - Introduction_ training course, followed by an _Intermediate_ level (both Celfocus' internal sessions).
+      I strongly embrace Continuous Delivery and "shift-left" practices, driving secure-by-design delivery in regulated environments: least-privilege access, strong security controls, extensive AppSec scanning, and developer enablement through a complete local environment mirroring remote setups to accelerate feedback loops.
       
-      Until the end of 2018 I have worked as Integration Team leader and Technical Architect delivering Enterprise IoT projects, also for Vodafone Group.
-      
-      Before that I have grown as EAI consultant professional, as part of the development team in several projects in Telecommunications industry for clients such as Vodafone Group, Vodafone Ghana and Vodafone Portugal. Also, in the Public sector, I have participated in the development and functional analysis team at the Instituto de Registos e Notariado and in the financial sector I have contributed for the in-house team of development and support of the EAI systems.
+      In parallel, I hold an organizational leadership role as Backend Development Chapter Lead at Celfocus, steering the backend technology landscape with architects and pre-sales, mentoring engineers, shaping training and career paths, and supporting hiring through interview design and candidate assessment.
 
 education:
     title: Education
@@ -100,19 +98,27 @@ experiences:
         time: Feb 2025 - Present
         company: Celfocus, Lisbon
         details: |
-          Client: Caixa Geral de Aposentações, NSI - Novo Sistema de Informação
-          
-          Responsibility on driving technical innovation and excellence, by ensuring solution delivery in Backend and API Management areas, enforcing the implementation of best practices within the project, and leading the team organization.
-          
-          Tech Stack: Java 21, Springboot 3.3.3, Google Apigee X, Postgres, Kubernetes, Helm
-      - role: Backend Chapter Lead (Staff Engineer)
+          Client: Caixa Geral de Aposentações — NSI (public sector digital transformation on GCP)
+
+          - Lead squad owning Backend, API Management and IAM; accountable across delivery lifecycle.
+          - Own stack: Java 21 / Spring Boot 3.4.13 / Camel / Postgres; Apigee X; Keycloak (RH build) on OpenShift.
+          - Security-by-design in regulated context (least privilege, SDLC controls, extensive AppSec scanning).
+          - Shift-left DevEx: local environment parity mirroring remote environments; faster feedback loops and delivery quality.
+          - Trusted peer to enterprise architecture; contribute to target architecture and technical direction.
+
+          Tech Stack: Java 21, Spring Boot 3.4.13, Camel, Postgres, Apigee X, Keycloak (OpenShift), GCP
+      - role: Backend Chapter Lead
         time: Feb 2025 - Present
         company: Celfocus, Lisbon
         details: |
-          Responsibility on leading the technological decisions, hiring activities, technological training contents, community management and support presales activities across Celfocus regarding Backend Development area.
+          Responsibility on leading the Backend Development chapter across Celfocus, ensuring technical alignment with market trends and consistent engineering practices across teams.
+
+          - Steer backend technology standards with architects and pre-sales (alignment with market trends).
+          - Run community enablement (sharing sessions, training materials, learning/career paths).
+          - Support hiring: interview format, screening and technical assessment.
       - role: API Management & Backend Tech Lead
         time: Oct 2023 - Mar 2024
-        company: Celfocus, Lisbon
+        company: Celfocus, Lisbon 
         details: |
           Client: Celfocus, Carbon Marketplace Platform and Loyalty Platform
           
@@ -124,8 +130,6 @@ experiences:
         company: Celfocus, Lisbon
         details: |
           Responsibility on leading the technological decisions, hiring activities, technological training contents, community management and support presales activities across Celfocus regarding API Management area.
-          
-          Technologies of specialization: Google Apigee, AWS Api Gateway, Kong Gateway
       - role: Solution Architect
         time: Jan 2019 - Dec 2022
         company: Celfocus, Lisbon
@@ -137,55 +141,43 @@ experiences:
           Tech Stack: Springboot2.0, MongoDB, AWS Stack for IoT (Shadow, Broker, Rules Engine), AWS stack for Cache (Elasticache for Memcached, Elasticache for Redis), AWS Serverless (Lambda Functions)
       - role: Technical Architect / EAI Team Leader
         time: Oct 2016 – Dec 2018
-        company: Celfocus, Lisbon
-        details: |
-          Client: Vodafone Group, Enterprise IoT (IoT Portal, IITC, SME)
-          
+        company: Celfocus, Lisbon / Vodafone Group, Enterprise IoT (IoT Portal, IITC, SME)
+        details: |          
           Team leader of the Order Management and Integration Team. Technical design and architecture of the solution. Development of the solution and support in the quality assurance phase until acceptance in production. 
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL 11g, Oracle Service Bus 11g, Celfocus Order Management, Celfocus Product Catalog and Rules Management Engine)
       - role: Technical Architect / EAI Developer
         time: Nov 2015 – Oct 2016
-        company: Celfocus, Lisbon
+        company: Celfocus, Lisbon / Vodafone Ghana, CRM Migration (2nd phase)
         details: |
-          Client: Vodafone Ghana, CRM Migration (2nd phase)
-          
           Design the architecture of the solution. Development of the OSB and OSM layers. Team management functions in the absence of the team leader. Support in the “go-live” procedure.
           
           Tech Stack: Oracle Weblogic 11g, Oracle Service Bus 11g, Oracle OSM 11g, Oracle Database 11g)
       - role: EAI Developer
         time: Aug 2015 – Nov 2015
-        company: Celfocus, Lisbon
-        details: |
-          Client: Vodafone Group, Enterprise IoT
-          
+        company: Celfocus, Lisbon / Vodafone Group, Enterprise IoT
+        details: |          
           Installation of the production and pre-production Oracle BPEL environments for the Internet of Things project. Development of the WLST/python scripts that supported the installation process. Development of the Weblogic servers monitoring scripts. Development of the continuous integration processes for Oracle OSB and Oracle BPEL projects. 
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL 11g, Oracle Service Bus 11g, Oracle Database 11g)
       - role: EAI Developer
         time: Feb 2014 – Aug 2015
-        company: Celfocus, Lisbon
+        company: Celfocus, Lisbon / Vodafone Group, One Net OPP & CPP
         details: |
-          Client: Vodafone Group, One Net OPP & CPP
-          
           Migration of the EAI layer and development of new components from Vodafone Group’s unified communications provisioning and portals solution (the core of Vodafone’s “One Net” product).
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL 11g, Oracle Service Bus 11g, Oracle Database 11g)
       - role: EAI Developer
         time: Sep 2013 – Feb 2014
-        company: Celfocus, Lisbon
+        company: Celfocus, Lisbon / Instituto de Registos e Notariado (IRN)
         details: |
-          Client: Instituto de Registos e Notariado (IRN)
-          
           Analysis and development of the EAI layer of the IRN back office portal.
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL, Oracle Service Bus 11g, Oracle Database 11g.
       - role: EAI Developer
         time: Feb 2013 – Sep 2013
-        company: Celfocus, Lisbon
+        company: Celfocus, Lisbon / Vodafone Ghana, CRM Migration (1st phase)
         details: |
-          Client: Vodafone Ghana, CRM Migration (1st phase)
-          
           Development of an entire framework based on OSB; Release management; support in server administrative tasks, such as environment installation and maintenance; Member of the “go-live” team in Accra, Ghana.
           
           Tech Stack: Oracle Weblogic 11g, Oracle BPEL, Oracle Service Bus 11g, Oracle Database 11g.
@@ -230,42 +222,42 @@ skills:
     title: Key Skills &amp; Competencies
 
     toolset:
-      - name: Microservice Architectures
-        level: 100%
-        
-      - name: AWS Cloud Platform
+      - name: Technical Leadership (architecture, mentoring, standards, hiring)
         level: 95%
-        
-      - name: System Integration
-        level: 95%
-        
-      - name: Telco (BSS, OSS) &amp; IoT Business
-        level: 85%
-        
-      - name: Order Management
-        level: 80%
-        
-technologies:
-    title: Tools &amp; Technologies
 
-    toolset:
-      - name: Oracle Weblogic 11g/12c
+      - name: Backend Engineering (Java 21, Spring Boot 3.x, integration patterns/Camel)
+        level: 95%
+        
+      - name: Continuous Delivery & DevEx (shift-left practices, local env parity)
+        level: 90%
+
+      - name: Cloud & Platforms (GCP, AWS; Kubernetes/OpenShift)
         level: 85%
         
-      - name: Oracle Service Bus 11g/12c
+      - name: Identity & Access Management (Keycloak)
         level: 80%
         
-      - name: Oracle BPEL 11g/12c
-        level: 80%
-        
-      - name: Scripting languages (Bash, Python, WLST, etc)
-        level: 70%
-        
-      - name: Java Springboot
-        level: 70%
-        
-      - name: Oracle OSM 11g
-        level: 50%
+#technologies:
+#    title: Tools &amp; Technologies
+#
+#    toolset:
+#      - name: Google Cloud Platform (GCP)
+#        level: 85%
+#
+#      - name: Springboot Framework
+#        level: 80%
+#        
+#      - name: Oracle Service Bus 11g/12c
+#        level: 80%
+#        
+#      - name: Oracle BPEL 11g/12c
+#        level: 80%
+#        
+#      - name: Scripting languages (Bash, Python, WLST, etc)
+#        level: 70%
+#        
+#      - name: Oracle OSM 11g
+#        level: 50%
        
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
